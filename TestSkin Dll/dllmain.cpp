@@ -1,7 +1,4 @@
-﻿#include <windows.h>
-#include <stdio.h>
-#include <tchar.h>
-#include "helpers.h"
+﻿#include "helpers.h"
 
 extern "C" {
     __declspec (dllexport) void Init()
